@@ -1,4 +1,4 @@
-# [Crawling - KCIA](//https://github.com/zb-dss-offline-1th/ml-repo-02/blob/main/crawl/kcia.ipynb) (Result File: [ing_name.csv](//https://github.com/zb-dss-offline-1th/ml-repo-02/blob/main/data/ing_name.csv) <br>
+# [Crawling - KCIA](//https://github.com/zb-dss-offline-1th/ml-repo-02/blob/main/crawl/kcia.ipynb) (Result File: [ing_name.csv](//https://github.com/zb-dss-offline-1th/ml-repo-02/blob/main/data/ing_name.csv)) <br>
 대한 화장품 협회 웹사이트에서 제공하는 '성분사전'에서 성분정보 수집하기<br>
 https://kcia.or.kr/cid/main/
 
